@@ -1,4 +1,4 @@
-## About Kyrylo Prymak
+## About Kyrylo Pryma
 
 **Computer Science @ City College of New York (CCNY)** | Graduating December 2027
 
