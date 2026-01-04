@@ -4,7 +4,7 @@
 
 **Drupal/PHP Developer @ AVID MINDS LLC** | 2+ years professional experience
 
-**Founder of Efficio AI** | iOS productivity app with 50+ paying users and 5.0★ App Store rating
+**Founder of Efficio AI** | iOS productivity app with 50+ users and 5.0★ App Store rating
 
 ---
 
