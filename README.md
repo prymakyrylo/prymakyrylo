@@ -10,7 +10,7 @@
 
 Tech Stack
 
-**Languages:** Swift, PHP, Python, JavaScript, SQL, Javascript, Pine Script 
+**Languages:** Swift, PHP, Python, SQL, Javascript, Java, Pine Script 
 **Technologies:** Drupal, MySQL, Git, iOS Development, REST APIs  
 **Currently Learning:** Advanced algorithms & data structures
 
