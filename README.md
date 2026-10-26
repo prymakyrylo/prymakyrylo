@@ -2,7 +2,7 @@
 
 **Computer Science @ City College of New York (CCNY)** | Graduating May 2028
 
-**Software Developer – QA Automation & Software Developer @ AVID MINDS LLC** | 2+ years professional experience
+**Software Developer – QA Automation & Software Developer @ AVID MINDS LLC** | 3+ years professional experience
 
 **Founder of Efficio AI** | iOS productivity app with 50+ users and 5.0★ App Store rating
 
